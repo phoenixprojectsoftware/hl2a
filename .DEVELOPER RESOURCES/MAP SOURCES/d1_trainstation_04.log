@@ -1,0 +1,122 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\sourcemods\hl2a\materials
+Loading D:\Program Files (x86)\Steam\steamapps\sourcemods\hl2a\.DEVELOPER RESOURCES\MAP SOURCES\d1_trainstation_04.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\program files (x86)\steam\steamapps\sourcemods\hl2a\gameinfo.txt
+Patching WVT material: maps/d1_trainstation_04/nature/red_grass_wvt_patch
+Patching WVT material: maps/d1_trainstation_04/nature/blendrockdirt002a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 380 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+Warning: area portal has 512 verts. Could be a vbsp bug.
+Warning: area portal has 512 verts. Could be a vbsp bug.
+done (1)
+writing D:\Program Files (x86)\Steam\steamapps\sourcemods\hl2a\.DEVELOPER RESOURCES\MAP SOURCES\d1_trainstation_04.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (600010 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4428 texinfos to 1935
+Reduced 674 texdatas to 417 (38094 bytes to 23400)
+Writing D:\Program Files (x86)\Steam\steamapps\sourcemods\hl2a\.DEVELOPER RESOURCES\MAP SOURCES\d1_trainstation_04.bsp
+4 seconds elapsed
+
+
+
+8 threads
+reading d:\program files (x86)\steam\steamapps\sourcemods\hl2a\.developer resources\map sources\d1_trainstation_04.bsp
+reading d:\program files (x86)\steam\steamapps\sourcemods\hl2a\.developer resources\map sources\d1_trainstation_04.prt
+1290 portalclusters
+4023 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6.

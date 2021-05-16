@@ -1,0 +1,194 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\sourcemods\hl2a\materials
+Loading C:\Users\djdis\Documents\decompiled background maps\d3_c17_12.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\program files (x86)\steam\steamapps\sourcemods\hl2a\gameinfo.txt
+Patching WVT material: maps/d3_c17_12/nature/blendgrassgravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_node (-1314.00 7376.00 -36.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-5120.0 10464.0 4632.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-5120.0 10976.0 4616.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-5120.0 10752.0 -24.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-5632.0 11264.0 2560.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-6656.0 11264.0 2560.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7680.0 11264.0 2560.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-8192.0 10752.0 2560.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-5120.0 9728.0 4632.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 262 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (576822 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3541 texinfos to 1814
+Reduced 450 texdatas to 322 (24191 bytes to 17365)
+Writing C:\Users\djdis\Documents\decompiled background maps\d3_c17_12.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\users\djdis\documents\decompiled background maps\d3_c17_12.bsp
+reading c:\users\djdis\documents\decompiled background maps\d3_c17_12.prt
+LoadPortals: couldn't read c:\users\djdis\documents\decompiled background maps\d3_c17_12.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\djdis\documents\decompiled background maps\d3_c17_12.bsp
+No vis information, direct lighting only.
+6539 faces
+7 degenerate faces
+4880858 square feet [702843584.00 square inches]
+126 Displacements
+59970 Square Feet [8635680.00 Square Inches]
+50 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0285 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+4 of 26 (15% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  87/1024         4176/49152    ( 8.5%) 
+brushes               1642/8192        19704/98304    (20.0%) 
+brushsides           11238/65536       89904/524288   (17.1%) 
+planes                5252/65536      105040/1310720  ( 8.0%) 
+vertexes             11788/65536      141456/786432   (18.0%) 
+nodes                 4476/65536      143232/2097152  ( 6.8%) 
+texinfos              1814/12288      130608/884736   (14.8%) 
+texdata                322/2048        10304/65536    (15.7%) 
+dispinfos              126/0           22176/0        ( 0.0%) 
+disp_verts            4326/0           86520/0        ( 0.0%) 
+disp_tris             6048/0           12096/0        ( 0.0%) 
+disp_lmsamples      163352/0          163352/0        ( 0.0%) 
+faces                 6539/65536      366184/3670016  (10.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4342/65536      243152/3670016  ( 6.6%) 
+leaves                4564/65536      146048/2097152  ( 7.0%) 
+leaffaces             7922/65536       15844/131072   (12.1%) 
+leafbrushes           3752/65536        7504/131072   ( 5.7%) 
+areas                    7/256            56/2048     ( 2.7%) 
+surfedges            48520/512000     194080/2048000  ( 9.5%) 
+edges                30468/256000     121872/1024000  (11.9%) 
+LDR worldlights         49/8192         4312/720896   ( 0.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            652/32768        6520/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         11568/65536       23136/131072   (17.7%) 
+cubemapsamples          52/1024          832/16384    ( 5.1%) 
+overlays                 8/512          2816/180224   ( 1.6%) 
+LDR lightdata         [variable]     3110780/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      207814/393216   (52.8%) 
+LDR ambient table     4564/65536       18256/262144   ( 7.0%) 
+HDR ambient table     4564/65536       18256/262144   ( 7.0%) 
+LDR leaf ambient     25552/65536      715456/1835008  (39.0%) 
+HDR leaf ambient      4564/65536      127792/1835008  ( 7.0%) 
+occluders                4/0             160/0        ( 0.0%) 
+occluder polygons       24/0             288/0        ( 0.0%) 
+occluder vert ind       96/0             384/0        ( 0.0%) 
+detail props          [variable]           1/54420    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/18400    ( 0.0%) 
+pakfile               [variable]     4729388/0        ( 0.0%) 
+physics               [variable]      576822/4194304  (13.8%) 
+physics terrain       [variable]       20750/1048576  ( 2.0%) 
+
+Level flags = 0
+
+Total triangle count: 18054
+Writing c:\users\djdis\documents\decompiled background maps\d3_c17_12.bsp
+1 minute, 38 seconds elapsed

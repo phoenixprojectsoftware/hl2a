@@ -1,0 +1,380 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\sourcemods\hl2a\materials
+Loading C:\Users\djdis\Documents\decompiled background maps\d1_trainstation_02.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\program files (x86)\steam\steamapps\sourcemods\hl2a\gameinfo.txt
+Patching WVT material: maps/d1_trainstation_02/nature/red_grass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 894 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\djdis\Documents\decompiled background maps\d1_trainstation_02.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (813064 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6559 texinfos to 2652
+Reduced 918 texdatas to 594 (57118 bytes to 37403)
+Writing C:\Users\djdis\Documents\decompiled background maps\d1_trainstation_02.bsp
+8 seconds elapsed
+
+
+
+8 threads
+reading c:\users\djdis\documents\decompiled background maps\d1_trainstation_02.bsp
+reading c:\users\djdis\documents\decompiled background maps\d1_trainstation_02.prt
+1222 portalclusters
+3821 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2049 visible clusters (0.54%)
+Total clusters visible: 379192
+Average clusters visible: 310
+Building PAS...
+Average clusters audible: 824
+visdatasize:268674  compressed from 391040
+writing c:\users\djdis\documents\decompiled background maps\d1_trainstation_02.bsp
+7 minutes, 35 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\djdis\documents\decompiled background maps\d1_trainstation_02.bsp
+6547 faces
+2 degenerate faces
+2329595 square feet [335461696.00 square inches]
+3 Displacements
+5866 Square Feet [844800.00 Square Inches]
+6545 patches before subdivision
+zero area child patch
+76021 patches after subdivision
+1246 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 11696123, max 1106
+transfer lists:  89.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(378751, 303004, 148913)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(73618, 49314, 18477)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14320, 8069, 2344)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3445, 1604, 348)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(842, 323, 53)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(224, 71, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(60, 16, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(17, 4, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(5, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0256 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+1004 of 1212 (82% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 116/1024         5568/49152    (11.3%) 
+brushes               2210/8192        26520/98304    (27.0%) 
+brushsides           20532/65536      164256/524288   (31.3%) 
+planes               22144/65536      442880/1310720  (33.8%) 
+vertexes             17920/65536      215040/786432   (27.3%) 
+nodes                 3810/65536      121920/2097152  ( 5.8%) 
+texinfos              2652/12288      190944/884736   (21.6%) 
+texdata                594/2048        19008/65536    (29.0%) 
+dispinfos                3/0             528/0        ( 0.0%) 
+disp_verts             243/0            4860/0        ( 0.0%) 
+disp_tris              384/0             768/0        ( 0.0%) 
+disp_lmsamples       14856/0           14856/0        ( 0.0%) 
+faces                 6547/65536      366632/3670016  (10.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4597/65536      257432/3670016  ( 7.0%) 
+leaves                3927/65536      125664/2097152  ( 6.0%) 
+leaffaces             8696/65536       17392/131072   (13.3%) 
+leafbrushes           5334/65536       10668/131072   ( 8.1%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges            49307/512000     197228/2048000  ( 9.6%) 
+edges                30498/256000     121992/1024000  (11.9%) 
+LDR worldlights       1242/8192       109296/720896   (15.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2295/32768       22950/327680   ( 7.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         53256/65536      106512/131072   (81.3%) VERY FULL!
+cubemapsamples         174/1024         2784/16384    (17.0%) 
+overlays                27/512          9504/180224   ( 5.3%) 
+LDR lightdata         [variable]     3109860/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      268674/16777216 ( 1.6%) 
+entdata               [variable]      243327/393216   (61.9%) 
+LDR ambient table     3927/65536       15708/262144   ( 6.0%) 
+HDR ambient table     3927/65536       15708/262144   ( 6.0%) 
+LDR leaf ambient     15786/65536      442008/1835008  (24.1%) 
+HDR leaf ambient      3927/65536      109956/1835008  ( 6.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/27328    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/31296    ( 0.0%) 
+pakfile               [variable]    18782306/0        ( 0.0%) 
+physics               [variable]      813064/4194304  (19.4%) 
+physics terrain       [variable]         203/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 17751
+Writing c:\users\djdis\documents\decompiled background maps\d1_trainstation_02.bsp
+1 minute, 41 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\sourcemods\hl2a\materials
+Loading C:\Users\djdis\Documents\decompiled background maps\d1_trainstation_02.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\program files (x86)\steam\steamapps\sourcemods\hl2a\gameinfo.txt
+Patching WVT material: maps/d1_trainstation_02/nature/red_grass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 894 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\djdis\Documents\decompiled background maps\d1_trainstation_02.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (813064 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8.Material NATURE/RED_GRASS uses unknown detail object type redgrass!
+Material NATURE/RED_GRASS uses unknown detail object type redgrass!
+Material NATURE/RED_GRASS uses unknown detail object type redgrass!
+..9...10
+Compacting texture/material tables...
+Reduced 6559 texinfos to 2652
+Reduced 918 texdatas to 594 (57118 bytes to 37403)
+Writing C:\Users\djdis\Documents\decompiled background maps\d1_trainstation_02.bsp
+5 seconds elapsed
+
+
+
+8 threads
+reading c:\users\djdis\documents\decompiled background maps\d1_trainstation_02.bsp
+reading c:\users\djdis\documents\decompiled background maps\d1_trainstation_02.prt
+1222 portalclusters
+3821 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2049 visible clusters (0.54%)
+Total clusters visible: 379192
+Average clusters visible: 310
+Building PAS...
+Average clusters audible: 824
+visdatasize:268674  compressed from 391040
+writing c:\users\djdis\documents\decompiled background maps\d1_trainstation_02.bsp
+6 minutes, 17 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\lights.rad.
+Loading c:\users\djdis\documents\decompiled background maps\d1_trainstation_02.bsp
+6547 faces
+2 degenerate faces
+2329595 square feet [335461696.00 square inches]
+3 Displacements
+5866 Square Feet [844800.00 Square Inches]
+6545 patches before subdivision
+zero area child patch
+75991 patches after subdivision
+34 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 11692837, max 1106
+transfer lists:  89.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(332270, 256615, 117387)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(62007, 39831, 13765)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(11305, 6065, 1620)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2632, 1167, 234)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(623, 228, 35)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(164, 49, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(43, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(12, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0189 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 116/1024         5568/49152    (11.3%) 
+brushes               2210/8192        26520/98304    (27.0%) 
+brushsides           20532/65536      164256/524288   (31.3%) 
+planes               22144/65536      442880/1310720  (33.8%) 
+vertexes             17920/65536      215040/786432   (27.3%) 
+nodes                 3810/65536      121920/2097152  ( 5.8%) 
+texinfos              2652/12288      190944/884736   (21.6%) 
+texdata                594/2048        19008/65536    (29.0%) 
+dispinfos                3/0             528/0        ( 0.0%) 
+disp_verts             243/0            4860/0        ( 0.0%) 
+disp_tris              384/0             768/0        ( 0.0%) 
+disp_lmsamples       14856/0           14856/0        ( 0.0%) 
+faces                 6547/65536      366632/3670016  (10.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4597/65536      257432/3670016  ( 7.0%) 
+leaves                3927/65536      125664/2097152  ( 6.0%) 
+leaffaces             8696/65536       17392/131072   (13.3%) 
+leafbrushes           5334/65536       10668/131072   ( 8.1%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges            49307/512000     197228/2048000  ( 9.6%) 
+edges                30498/256000     121992/1024000  (11.9%) 
+LDR worldlights         30/8192         2640/720896   ( 0.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2295/32768       22950/327680   ( 7.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         53256/65536      106512/131072   (81.3%) VERY FULL!
+cubemapsamples         174/1024         2784/16384    (17.0%) 
+overlays                27/512          9504/180224   ( 5.3%) 
+LDR lightdata         [variable]     3109860/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      268674/16777216 ( 1.6%) 
+entdata               [variable]      243327/393216   (61.9%) 
+LDR ambient table     3927/65536       15708/262144   ( 6.0%) 
+HDR ambient table     3927/65536       15708/262144   ( 6.0%) 
+LDR leaf ambient     15764/65536      441392/1835008  (24.1%) 
+HDR leaf ambient      3927/65536      109956/1835008  ( 6.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/31296    ( 0.0%) 
+pakfile               [variable]    18782306/0        ( 0.0%) 
+physics               [variable]      813064/4194304  (19.4%) 
+physics terrain       [variable]         203/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 17751
+Writing c:\users\djdis\documents\decompiled background maps\d1_trainstation_02.bsp
+29 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\Program Files (x86)\Steam\steamapps\common\Source SDK Base 2013 Singleplayer\bin\lights.rad.
+Loading c:\users\djdis\documents\decompiled background maps\d1_trainstation_02.bsp
+6547 faces
+2 degenerate faces
+2329595 square feet [335461696.00 square inches]
+3 Displacements
+5866 Square Feet [844800.00 Square Inches]
+6545 patches before subdivision
+zero area child patch
+75991 patches after subdivision
+34 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 11692837, max 1106
+transfer lists:  89.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(332270, 256615, 117387)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(62007, 39831, 13765)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(11305, 6065, 1620)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2632, 1167, 234)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(623, 228, 35)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(164, 49, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(43, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(12, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0222 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 116/1024         5568/49152    (11.3%) 
+brushes               2210/8192        26520/98304    (27.0%) 
+brushsides           20532/65536      164256/524288   (31.3%) 
+planes               22144/65536      442880/1310720  (33.8%) 
+vertexes             17920/65536      215040/786432   (27.3%) 
+nodes                 3810/65536      121920/2097152  ( 5.8%) 
+texinfos              2652/12288      190944/884736   (21.6%) 
+texdata                594/2048        19008/65536    (29.0%) 
+dispinfos                3/0             528/0        ( 0.0%) 
+disp_verts             243/0            4860/0        ( 0.0%) 
+disp_tris              384/0             768/0        ( 0.0%) 
+disp_lmsamples       14856/0           14856/0        ( 0.0%) 
+faces                 6547/65536      366632/3670016  (10.0%) 
+hdr faces             6547/65536      366632/3670016  (10.0%) 
+origfaces             4597/65536      257432/3670016  ( 7.0%) 
+leaves                3927/65536      125664/2097152  ( 6.0%) 
+leaffaces             8696/65536       17392/131072   (13.3%) 
+leafbrushes           5334/65536       10668/131072   ( 8.1%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges            49307/512000     197228/2048000  ( 9.6%) 
+edges                30498/256000     121992/1024000  (11.9%) 
+LDR worldlights         30/8192         2640/720896   ( 0.4%) 
+HDR worldlights         30/8192         2640/720896   ( 0.4%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2295/32768       22950/327680   ( 7.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         53256/65536      106512/131072   (81.3%) VERY FULL!
+cubemapsamples         174/1024         2784/16384    (17.0%) 
+overlays                27/512          9504/180224   ( 5.3%) 
+LDR lightdata         [variable]     3109860/0        ( 0.0%) 
+HDR lightdata         [variable]     3109860/0        ( 0.0%) 
+visdata               [variable]      268674/16777216 ( 1.6%) 
+entdata               [variable]      243327/393216   (61.9%) 
+LDR ambient table     3927/65536       15708/262144   ( 6.0%) 
+HDR ambient table     3927/65536       15708/262144   ( 6.0%) 
+LDR leaf ambient     15764/65536      441392/1835008  (24.1%) 
+HDR leaf ambient     15764/65536      441392/1835008  (24.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/31296    ( 0.0%) 
+pakfile               [variable]    18782306/0        ( 0.0%) 
+physics               [variable]      813064/4194304  (19.4%) 
+physics terrain       [variable]         203/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 17751
+Writing c:\users\djdis\documents\decompiled background maps\d1_trainstation_02.bsp
+28 seconds elapsed
