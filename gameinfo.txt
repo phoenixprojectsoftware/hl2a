@@ -1,9 +1,9 @@
 "GameInfo"
 {
-	game 		"The Phoenix Project Software"
-	title 		""
-	title2		""
-	gamelogo	1
+	game 		"Lupin Bean"
+	title 		"HALF-LIFE 2"
+	title2		"ANNIVERSARY"
+	gamelogo	0
 	supportsvr	1
 
 	type		singleplayer_only
