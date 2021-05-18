@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "8372"
-	"mapversion" "2"
+	"editorbuild" "6440"
+	"mapversion" "7"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "0"
-	"mapversion" "2"
+	"mapversion" "7"
 	"classname" "worldspawn"
 	"chaptertitle" "CHAPTER10A_TITLE"
 	"comment" "Decompiled by BSPSource v1.4.0 from d3_c17_10a"
@@ -189876,13 +189876,31 @@ entity
 		"logicalpos" "[12000 -14768]"
 	}
 }
+entity
+{
+	"id" "18567"
+	"classname" "light"
+	"_light" "255 255 255 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"spawnflags" "0"
+	"origin" "-2981.48 6863.76 239"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-3996.98 6800.51 105.239]"
-		"look" "[-3744.26 6800.51 21]"
+		"position" "[-3012.19 6903.52 215.035]"
+		"look" "[-2876.19 6726.92 360.9]"
 	}
 	camera
 	{
