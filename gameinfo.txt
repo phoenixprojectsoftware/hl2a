@@ -1,8 +1,8 @@
 "GameInfo"
 {
 	game 		"Lupin Bean"
-	title 		"HALF-LIFE 2"
-	title2		"ANNIVERSARY"
+	title 		"HALF-LIFE 2 ANNIVERSARY"
+	title2		"1.0 (Nov 2024) build 2105-rev1"
 	gamelogo	0
 	supportsvr	1
 
