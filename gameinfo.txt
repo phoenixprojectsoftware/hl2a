@@ -1,6 +1,6 @@
 "GameInfo"
 {
-	game 		"Lupin Bean"
+	game 		"Half-Life 2 Anniversary"
 	title 		"HALF-LIFE 2"
 	title2		"ANNIVERSARY"
 	gamelogo	0
