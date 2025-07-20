@@ -4,6 +4,9 @@ This repository contains all the files necessary to run *Half-Life 2 Anniversary
 > [!IMPORTANT] 
 > **Source SDK Base 2013 Singleplayer** must be installed on Steam and opted into the `upcoming` beta for Half-Life 2 Anniversary to run!
 
+> [!CAUTION]
+> *Half-Life 2 Anniversary* is unfinished and you may experience glitches and crashes when trying out this game.
+
 ## License
 
 ```
